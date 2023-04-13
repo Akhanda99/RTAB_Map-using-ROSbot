@@ -5,7 +5,7 @@ The project "3D Mapping and Autonomous Navigation using ROSBOT" aims to create a
 
 For making the 3D map of an unknown environment, RTAB-map is used which is an open-source 3D mapping tool of ROS. The mapping process includes capturing data from a depth camera and LIDAR to construct a 3D point cloud of the environment.
 
-Then the robot is programmed for path planning and autonomous navigation using DWA (Dynamic Window Approach) algorithm. The performance of the robot has been evaluated using the Gazebo and Rviz simulations. Through different tests, it was observed that the robot successfully reached the goal avoiding obstacles by following an optimal path.
+Then the robot is programmed for path planning and autonomous navigation using DWA (Dynamic Window Approach) algorithm. The performance of the robot has been evaluated using the Gazebo Simulator and Rviz. Through different tests, it was observed that the robot successfully reached the goal avoiding obstacles by following an optimal path.
 
 ![Logo](https://user-images.githubusercontent.com/62715159/231705133-13938402-2dc4-421b-9f06-803a4f6e0936.png)
 
