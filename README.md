@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/62715159/231725967-3e94010f-9106-471d-
 
 ## Instruction 
 
-Step 1: Run these command one by one to get this package into your own workspace 
+Step 1: Run these commands one by one to get this package into your own workspace 
 ```bash
   cd catkin_ws/src
   git clone https://github.com/Akhanda99/RTAB_Map-using-ROSbot.git
